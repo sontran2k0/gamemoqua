@@ -1,0 +1,13 @@
+﻿Hiện tại em có gắn thử modal-popup trong các nút.
+Xử lý trong mục //:js/index.js
+myBtn1-myModal1 Rất tiếc , thua game, cs thêm lượt
+myBtn2-myModal2 Thông tin đăng nhập
+myBtn3-myModal3 Chơi game, trả lời 
+myBtn4-myModal1 Qui định trò chơi
+myBtn5-myModal1 Lịch sử trúng thưởng
+myBtn6-myModal1 Chúc mừng, trả lời đúng
+-----------
+hình giải thưởng , để tạm ảnh mạng.
+khi có sẽ thêm vào ở carousel inner
+-------------
+responsive điện thoại , laptop
